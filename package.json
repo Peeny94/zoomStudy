@@ -1,0 +1,7 @@
+{
+  "name": "zoomStudy",
+  "version": "1.0.0",
+  "description": "zoom clone using WebRTC and WebSockets",
+  "license": "MIT"
+
+}
