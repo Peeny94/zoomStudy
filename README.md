@@ -8,3 +8,5 @@ Node.js 사용하기
 + nodemon@3.1.0
 + pug@3.0.2
 + express@4.19.2
+
+http://localhost:3000/ // Cannot GET 
