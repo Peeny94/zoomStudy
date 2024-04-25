@@ -2,6 +2,10 @@
   "name": "zoomStudy",
   "version": "1.0.0",
   "description": "zoom clone using WebRTC and WebSockets",
-  "license": "MIT"
-
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/node": "^7.23.9"
+  }
 }
