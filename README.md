@@ -10,3 +10,5 @@ Node.js 사용하기
 + express@4.19.2
 
 http://localhost:3000/ // Cannot GET 
+
+npm run dev
